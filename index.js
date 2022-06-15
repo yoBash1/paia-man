@@ -6,7 +6,7 @@ let respostas = [
   'Não tenho tanta certeza.',
   'É decididamente assim.',
   'Não conte com isso.',
-  'Sem dúviudas!',
+  'Sem dúvidas!',
   'Pergunte novamente mais tarde.',
   'Sim, definitivamente!',
   'Minha reposta é não.',
